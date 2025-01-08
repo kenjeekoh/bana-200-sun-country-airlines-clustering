@@ -1,0 +1,6 @@
+Cluster,GenderCode,PostalCode,BkdClassOfService,TrvldClassOfService,BookingChannel,UflyMemberStatus,CardHolder,StopoverCode,age_group,true_origins,final_destination,true_destination,seasonality,BaseFareAmt,round_trip,group,days_pre_booked
+0,F,55391,Coach,Coach,SCA Website Booking,non-ufly,False,O,55+,SFO,MSP,MSP,Q3,266.65,0.582905982905983,0.5071225071225072,50.9974358974359
+1,F,55038,Coach,Coach,SCA Website Booking,non-ufly,False,O,35-54,MSP,MSP,LAS,Q1,267.4388945328165,0.8843737468252907,0.709798155326828,60.06269215345542
+2,F,55311,Coach,Coach,Outside Booking,non-ufly,False,O,35-54,MSP,MSP,LAS,Q1,301.77544078486335,0.8894183601962158,0.6734407848633497,61.768605466012616
+3,F,55331,Coach,Coach,SCA Website Booking,Standard,False,O,55+,MSP,MSP,LAS,Q4,308.3259935602576,0.8829346826126955,0.5867065317387304,67.80059797608095
+4,M,92683.0,Coach,Coach,Outside Booking,non-ufly,False,O,25-34,JFK,MSP,MSP,Q3,254.58393318702755,0.5269446476469154,0.3357717629846379,36.25091441111924
